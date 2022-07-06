@@ -4,7 +4,9 @@ toc: true
 title: People & Places
 ---
 
-# People
+---
+
+## People
 
 ### Party Members
 
@@ -19,8 +21,9 @@ title: People & Places
 - [Lady of Last Crest](people/lady-of-LastCrest.md)
 - [Mr. Dillygaffer](people/dillygaffer.md)
 
+---
 
-# Places
+## Places
 
 - [Last Crest](places/last-crest.md)
 - [Smoky Iron Mountains](places/smoky-iron-mountains.md)
