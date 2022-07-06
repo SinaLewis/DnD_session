@@ -1,7 +1,5 @@
 ---
 layout: single
-classes: wide
-author_profile: false
 permalink: /people/aurora.md/
 ---
 
