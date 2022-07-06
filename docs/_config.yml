@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sina Lewis"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Rieta Starag Shimermoon"
+  avatar : "/assets/images/rieta.png"
+  bio    : "Rieta was born on the 19th day of Ches (Spring Equinox) to human parents. At first she looked as a human babe would. But as she grew certain features started to become apparent..."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -73,17 +73,6 @@ footer:
       url: "https://github.com/"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
