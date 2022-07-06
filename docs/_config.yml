@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Rieta Starag Shimermoon"
-  avatar : "/assets/images/rieta.png"
+  avatar : "https://sinalewis.github.io/DnD_session/assets/images/rieta.png"
   bio    : "Rieta was born on the 19th day of Ches (Spring Equinox) to human parents. At first she looked as a human babe would. But as she grew certain features started to become apparent..."
   links:
     - label: "GitHub"
