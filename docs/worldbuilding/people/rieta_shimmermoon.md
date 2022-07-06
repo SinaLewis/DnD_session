@@ -3,9 +3,9 @@ layout: single
 permalink: /people/rieta_shimmermoon.md/
 ---
 
-![Rieta Starag Shimmermoon](https://sinalewis.github.io/DnD_session/assests/images/rieta.png)
+{% include figure image_path="https://sinalewis.github.io/DnD_session/assests/images/rieta.png" alt="Rieta" caption="" %}
 
-![Rieta Starag Shimmermoon](https://sinalewis.github.io/DnD_session/assests/images/rieta_forge.png)
+{% include figure image_path="https://sinalewis.github.io/DnD_session/assests/images/rieta_forge.png" alt="Rieta 2" caption="" %}
 
 ## Reita Starag Shimmermoon
 
