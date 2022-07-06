@@ -2,9 +2,9 @@
 permalink: /people/rieta_shimmermoon.md/
 ---
 
-![Rieta Starag Shimmermoon](/assests/images/rieta.png)
+![Rieta Starag Shimmermoon](https://sinalewis.github.io/DnD_session/assests/images/rieta.png)
 
-![Rieta Starag Shimmermoon](/assests/images/rieta_forge.png)
+![Rieta Starag Shimmermoon](https://sinalewis.github.io/DnD_session/assests/images/rieta_forge.png)
 
 ## Reita Starag Shimmermoon
 
