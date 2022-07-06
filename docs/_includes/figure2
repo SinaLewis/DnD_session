@@ -1,0 +1,14 @@
+<div class="row">
+  <div class="column">
+    <img src="{{ include.image_path | relative_url }}"
+    alt="{% if include.alt %}{{ include.alt }}{% endif %}"
+    width="{% if include.width %}{{ include.width }}{% endif %}"
+    height="{% if include.height %}{{ include.height }}{% endif %}">
+  </div>
+  <div class="column">
+    <img src="{{ include.image_path2 | relative_url2 }}"
+    alt="{% if include.alt2 %}{{ include.alt2 }}{% endif %}"
+    width="{% if include.width2 %}{{ include.width2 }}{% endif %}"
+    height="{% if include.height2 %}{{ include.height2 }}{% endif %}">
+  </div>
+</div>
