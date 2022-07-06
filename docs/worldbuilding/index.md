@@ -16,6 +16,7 @@ title: People & Places
 
 ### NPCs
 
+- [Lady of Last Crest](people/lady-of-LastCrest.md)
 - [Mr. Dillygaffer](people/dillygaffer.md)
 
 
