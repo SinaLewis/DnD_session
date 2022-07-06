@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: single
 permalink: /people/smoky-iron-mountains.md/
 ---
 
