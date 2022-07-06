@@ -4,4 +4,4 @@ permalink: /people/smoky-iron-mountains.md/
 ---
 
 
-## Smoky Iron Mountains
+# Smoky Iron Mountains

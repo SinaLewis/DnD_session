@@ -4,9 +4,9 @@ toc: true
 title: People & Places
 ---
 
-### [People](people/)
+# [People](people/)
 
-#### Party Members
+### Party Members
 
 - [Rieta Starag Shimmermoon](people/rieta_shimmermoon.md)
 - [Aurora](people/aurora.md)
@@ -14,12 +14,12 @@ title: People & Places
 - [Igr'fru (Iggy) Ekru](people/iggy.md)
 - [Pethani 'Threadtwister'](people/pethani.md)
 
-#### NPCs
+### NPCs
 
 - []()
 
 
-### [Places](places/)
+# [Places](places/)
 
 - [Last Crest](places/last-crest.md)
 - [Smoky Iron Mountains](places/smoky-iron-mountains.md)

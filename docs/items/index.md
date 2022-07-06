@@ -4,7 +4,6 @@ toc: true
 title: Items
 ---
 
-### Cool Shit
+# Cool Shit
 
-
-### Important Shit
+# Important Shit
