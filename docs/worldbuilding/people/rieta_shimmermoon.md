@@ -1,4 +1,5 @@
 ---
+layout: wide
 permalink: /people/rieta_shimmermoon.md/
 ---
 

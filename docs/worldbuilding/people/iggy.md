@@ -1,4 +1,5 @@
 ---
+layout: wide
 permalink: /people/iggy.md/
 ---
 

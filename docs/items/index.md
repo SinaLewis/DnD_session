@@ -1,3 +1,8 @@
+---
+layout: wide
+toc: true
+---
+
 ### Cool Shit
 
 

@@ -1,3 +1,8 @@
+---
+layout: wide
+toc: true
+---
+
 ### [People](people/)
 
 #### Party Members
