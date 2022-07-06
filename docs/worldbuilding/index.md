@@ -4,7 +4,7 @@ toc: true
 title: People & Places
 ---
 
-# [People](people/)
+# People
 
 ### Party Members
 
@@ -19,7 +19,7 @@ title: People & Places
 - []()
 
 
-# [Places](places/)
+# Places
 
 - [Last Crest](places/last-crest.md)
 - [Smoky Iron Mountains](places/smoky-iron-mountains.md)
