@@ -8,13 +8,11 @@ gallery:
     alt: "Rieta"
     title: ""
     width: 25%
-    height: "200"
   - url: https://sinalewis.github.io/DnD_session/assets/images/rieta_forge.png
     image_path: https://sinalewis.github.io/DnD_session/assets/images/rieta_forge.png
     alt: "Rieta 2"
     title: ""
     width: 25%
-    height: "200"
 ---
 
 {% include gallery caption="" %}
