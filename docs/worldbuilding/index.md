@@ -16,7 +16,7 @@ title: People & Places
 
 ### NPCs
 
-- []()
+- [Mr. Dillygaffer](people/dillygaffer.md)
 
 
 # Places
