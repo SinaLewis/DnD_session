@@ -1,4 +1,5 @@
 ---
+layout: single
 toc: true
 title: Journal
 ---
