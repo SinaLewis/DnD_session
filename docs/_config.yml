@@ -92,7 +92,7 @@ tag_archive:
 
 nav:
   - Pages:
-    - _pages/index.md
+    - journal/index.md
   - People & Places:
     - worldbuilding/index.md
   - Podcasts:

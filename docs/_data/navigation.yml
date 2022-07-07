@@ -1,6 +1,6 @@
 main:
   - title: "Journal"
-    url: https://sinalewis.github.io/DnD_session
+    url: /journal/
   - title: "People & Places"
     url: /worldbuilding/
   - title: "Items"
