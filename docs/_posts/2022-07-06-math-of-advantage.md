@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: The Maths of Rolling with Advantage
 ---
 
