@@ -4,8 +4,6 @@ toc: true
 title: People & Places
 ---
 
----
-
 ## People
 
 ### Party Members
@@ -15,6 +13,10 @@ title: People & Places
 - [Eraphina](people/eraphina.md)
 - [Igr'fru (Iggy) Ekru](people/iggy.md)
 - [Pethani 'Threadtwister'](people/pethani.md)
+
+### DMPCs
+
+- [Gregg](people/gregg.md)
 
 ### NPCs
 
