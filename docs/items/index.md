@@ -23,3 +23,20 @@ Through meticulous preparation and careful work, you have created hand grenades.
 | Superior Healing | xxx | 300/500 gp | The potion's red liquid glimmers when agitated. |
 | \[\] Resistance | Resistance (half damage) to \[\] damage for 1 hr | 100 gp | |
 | Hill Giant Strength | Increases Str to 21 for 1 hr | 250-450 gp | This potion's transparent liquid has floating in it a sliver of fingernail from a hill giant. |
+
+## Stuff
+
+### Inn Menu
+
+| Item | Cost |
+| ---- | ---- |
+| Room | 5 sp/night |
+| Beer (good) | 1 gp |
+| Beer | 2 sp |
+| Beer (cheap) | 7 cp |
+| Oatmeal (bland) | 1 cp |
+| Porridge | 3 cp |
+| Soup (good) | 1 sp |
+| Soup | 5 cp |
+| Tea (good) | 2 sp |
+| Tea (weak) | 2 cp |
