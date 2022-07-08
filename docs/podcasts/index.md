@@ -66,7 +66,7 @@ Justin, Travis, and Griffin McElroy from *My Brother, My Brother and Me* have re
     Join in the campaign as Justin (Taako), Travis (Magnus) and Clint (Merle), led by Dungeon Master Griffin, take their first steps into the unknown.
 
     #### Ethersea
-<details>
+</details>
 
 ## [Critical Role]()
 
@@ -76,4 +76,4 @@ blurb
     <summary>Content</summary>
 
     
-<details>
+</details>
