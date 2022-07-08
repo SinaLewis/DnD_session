@@ -1,6 +1,7 @@
 ---
 layout: single
 toc: true
+toc_label: Contents
 title: Items
 ---
 

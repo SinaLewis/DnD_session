@@ -1,14 +1,11 @@
 ---
 layout: single
 toc: true
+toc_label: Series
 title: Podcasts
 ---
 
 ## [Dungeons & Daddies](/dungeons-daddies.md/)
-
-- [Website](https://www.dungeonsanddaddies.com/)
-- [Spotify]()
-- []()
 
 ## [Greetings Adventurers! (Drunks and Dragons)](https://geeklyinc.com/category/drunks-and-dragons/)
 
