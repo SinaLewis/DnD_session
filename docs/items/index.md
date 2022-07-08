@@ -26,6 +26,8 @@ Through meticulous preparation and careful work, you have created hand grenades.
 
 ## Stuff
 
+### example
+
 ### Inn Menu
 
 | Item | Cost |
