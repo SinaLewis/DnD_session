@@ -43,7 +43,16 @@ toc-title: Series
 
 ## [Greetings, Adventurers! (Drunks and Dragons)](https://geeklyinc.com/category/drunks-and-dragons/)
 
-| {% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/greetings_adventurers.jpg" alt="Cover art" height="100px" %} | Previously called Drunks and Dragons, *Greetings, Adventurers!* is one of the longest running D&D podcasts. The first ~100 episodes use the D&D 4th edition system before transitioning to 5e.! |
+<table>
+    <tbody>
+        <tr>
+            <th><figure class="">
+                <img src="https://sinalewis.github.io/DnD_session/assets/images/greetings_adventurers.jpeg" alt="Cover Art" height="100px">
+                </figure></th>
+            <th>Previously called Drunks and Dragons, *Greetings, Adventurers!* is one of the longest running D&D podcasts. The first ~100 episodes use the D&D 4th edition system before transitioning to 5e.!</th>
+        </tr>
+    </tbody>
+</table>
 
 <details>
 <summary>Highlights</summary>
@@ -70,7 +79,16 @@ toc-title: Series
 
 ## [Adventure Zone]()
 
-| {% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/adventure_zone.jpg" alt="Cover art" height="100px" %} | Justin, Travis, and Griffin McElroy from *My Brother, My Brother and Me* have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of… you know, kobolds or whatever in… The Adventure Zone. |
+<table>
+    <tbody>
+        <tr>
+            <th><figure class="">
+                <img src="https://sinalewis.github.io/DnD_session/assets/images/adventure_zone.jpg" alt="Cover Art" height="100px">
+                </figure></th>
+            <th>Justin, Travis, and Griffin McElroy from <emph>My Brother, My Brother and Me</emph> have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of… you know, kobolds or whatever in… The Adventure Zone.</th>
+        </tr>
+    </tbody>
+</table>
 
 <details>
 <summary>Highlights</summary>
@@ -87,7 +105,16 @@ toc-title: Series
 
 ## [Critical Role]()
 
-| {% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/critical_role.jpg" alt="Cover art" height="100px" %} | One of the most well-known D&D podcasts (yet never listened to by Otto or Sina). |
+<table>
+    <tbody>
+        <tr>
+            <th><figure class="">
+                <img src="https://sinalewis.github.io/DnD_session/assets/images/critical_role.jpg" alt="Cover Art" height="100px">
+                </figure></th>
+            <th>One of the most well-known D&D podcasts (yet never listened to by Otto or Sina).</th>
+        </tr>
+    </tbody>
+</table>
 
 <details>
 <summary>Highlights</summary>
