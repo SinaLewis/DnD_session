@@ -7,7 +7,7 @@ toc-title: Series
 
 ## [Dungeons & Daddies](/dungeons-daddies.md/)
 
-{% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png" alt="Cover art" height="100px" caption"Full of dad jokes and some inappropriate humor. They earn their explicit rating!" %}
+| {% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png" alt="Cover art" height="100px" %} | Full of dad jokes and some inappropriate humor. They earn their explicit rating! |
 
 <details>
 <summary>Highlights</summary>
@@ -32,11 +32,9 @@ toc-title: Series
 
 ---
 
-{% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/greetings_adventurers.jpg" alt="Cover art" height="100px"%}
-
 ## [Greetings, Adventurers! (Drunks and Dragons)](https://geeklyinc.com/category/drunks-and-dragons/)
 
-Previously called Drunks and Dragons, *Greetings, Adventurers!* is one of the longest running D&D podcasts. The first ~100 episodes use the D&D 4th edition system before transitioning to 5e.
+| {% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/greetings_adventurers.jpg" alt="Cover art" height="100px" %} | Previously called Drunks and Dragons, *Greetings, Adventurers!* is one of the longest running D&D podcasts. The first ~100 episodes use the D&D 4th edition system before transitioning to 5e.! |
 
 <details>
 <summary>Highlights</summary>
@@ -61,11 +59,9 @@ Previously called Drunks and Dragons, *Greetings, Adventurers!* is one of the lo
 
 ---
 
-{% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/adventure_zone.jpg" alt="Cover art" height="100px"%}
-
 ## [Adventure Zone]()
 
-Justin, Travis, and Griffin McElroy from *My Brother, My Brother and Me* have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of… you know, kobolds or whatever in… The Adventure Zone.
+| {% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/adventure_zone.jpg" alt="Cover art" height="100px" %} | Justin, Travis, and Griffin McElroy from *My Brother, My Brother and Me* have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of… you know, kobolds or whatever in… The Adventure Zone. |
 
 <details>
 <summary>Highlights</summary>
@@ -80,11 +76,9 @@ Justin, Travis, and Griffin McElroy from *My Brother, My Brother and Me* have re
 
 ---
 
-{% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/critical_role.jpg" alt="Cover art" height="100px"%}
-
 ## [Critical Role]()
 
-blurb
+| {% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/critical_role.jpg" alt="Cover art" height="100px" %} | One of the most well-known D&D podcasts (yet never listened to by Otto or Sina). |
 
 <details>
 <summary>Highlights</summary>
