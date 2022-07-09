@@ -8,9 +8,9 @@ toc-title: Series
 ## [Dungeons & Daddies](/dungeons-daddies.md/)
 
 <table class="twoColumn">
-    <tbody>
-        <tr>
-            <th><figure class="">
+    <tbody class="twoColumn">
+        <tr class="twoColumn">
+            <th class="twoColumn"><figure class="">
                 <img src="https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png" alt="Cover Art" height="100px">
                 </figure></th>
             <th>Full of dad jokes and some inappropriate humor. They earn their explicit rating!</th>
@@ -43,10 +43,10 @@ toc-title: Series
 
 ## [Greetings, Adventurers! (Drunks and Dragons)](https://geeklyinc.com/category/drunks-and-dragons/)
 
-<table>
-    <tbody>
-        <tr>
-            <th><figure class="">
+<table class="twoColumn">
+    <tbody class="twoColumn">
+        <tr class="twoColumn">
+            <th class="twoColumn"><figure class="">
                 <img src="https://sinalewis.github.io/DnD_session/assets/images/greetings_adventurers.jpeg" alt="Cover Art" height="100px">
                 </figure></th>
             <th>Previously called Drunks and Dragons, *Greetings, Adventurers!* is one of the longest running D&D podcasts. The first ~100 episodes use the D&D 4th edition system before transitioning to 5e.!</th>

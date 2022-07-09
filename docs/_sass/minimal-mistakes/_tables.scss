@@ -43,7 +43,7 @@ th {
 
 table.twoColumn {
   display: block;
-  margin-bottom: 1em;
+  margin-bottom: 1px;
   width: 100%;
   font-family: $global-font-family;
   font-size: $type-size-6;
@@ -55,25 +55,25 @@ table.twoColumn {
   }
 }
 
-thead {
+thead.twoColumn {
   background-color: $border-color;
   border-bottom: 2px solid mix(#000, $border-color, 25%);
 }
 
-th {
-  padding: 1px;
+th.twoColumn {
+  padding: 8px 16px;
   font-weight: bold;
   text-align: left;
 }
 
-td {
-  padding: 1px;
+td.twoColumn {
+  padding: 8px 16px;
   border-bottom: 1px solid mix(#000, $border-color, 25%);
 }
 
-tr,
-td,
-th {
+tr.twoColumn,
+td.twoColumn,
+th.twoColumn {
   vertical-align: middle;
 }
 
