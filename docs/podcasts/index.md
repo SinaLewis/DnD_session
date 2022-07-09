@@ -14,19 +14,19 @@ Full of dad jokes and some inappropriate humor. They earn their explicit rating!
 
 <h4 id="dungeons-daddies-season-1"> Season 1 (complete, 69 episodes) </h4>
 
-<p>Four dads from our world are flung into a land of high fantasy and magic in a quest to rescue their lost sons.<p>
+<p>Four dads from our world are flung into a land of high fantasy and magic in a quest to rescue their lost sons.</p>
 
 <h4 id="dungeons-daddies-fetch-quest"> Fetch Quest (complete, 3 episodes) </h4>
 
-<p>Fun between seasons mini-series about 3 dogs and a cat.<p>
+<p>Fun between seasons mini-series about 3 dogs and a cat.</p>
 
 <h4 id="dungeons-daddies-season-2"> Season 2 (ongoing, 12 episodes) </h4>
 
-<p>The dad's grandkids are tasked with fixing the world that their grandparents kinda jacked up.<p>
+<p>The dad's grandkids are tasked with fixing the world that their grandparents kinda jacked up.</p>
 
 <h4 id="dungeons-daddies-mountains-dadness"> At the Mountains of Dadness (complete, 3 episodes) </h4>
 
-<p>A Patreon/<a href="https://store.dungeonsanddaddies.com/products/at-the-mountains-of-dadness-digital-download">store purchase</a> only horror prequel campaign. Set in 1939 this mini-series follows the grandparents of the Dungeons and Daddies dads as they investigate a missing film crew. Played in the Call of Cthulhu system.<p>
+<p>A Patreon/<a href="https://store.dungeonsanddaddies.com/products/at-the-mountains-of-dadness-digital-download">store purchase</a> only horror prequel campaign. Set in 1939 this mini-series follows the grandparents of the Dungeons and Daddies dads as they investigate a missing film crew. Played in the Call of Cthulhu system.</p>
 
 </details>
 
