@@ -10,7 +10,7 @@ toc-title: Series
 <table class="twoColumn">
     <tbody class="twoColumn">
         <tr class="twoColumn">
-            <th class="twoColumn" style="height:100px;width:150px"><figure class="">
+            <th class="twoColumn" style="height:100px;width:130px"><figure class="">
                 <img src="https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png" alt="Cover Art" height="100px">
                 </figure></th>
             <th class="twoColumn">Full of dad jokes and some inappropriate humor. They earn their explicit rating!</th>
@@ -46,7 +46,7 @@ toc-title: Series
 <table class="twoColumn">
     <tbody class="twoColumn">
         <tr class="twoColumn">
-            <th class="twoColumn" style="height:100px;width:150px"><figure class="">
+            <th class="twoColumn" style="height:100px;width:130px"><figure class="">
                 <img src="https://sinalewis.github.io/DnD_session/assets/images/greetings_adventurers.jpeg" alt="Cover Art" height="100px">
                 </figure></th>
             <th class="twoColumn">Previously called Drunks and Dragons, *Greetings, Adventurers!* is one of the longest running D&D podcasts. The first ~100 episodes use the D&D 4th edition system before transitioning to 5e.!</th>
@@ -82,7 +82,7 @@ toc-title: Series
 <table class="twoColumn">
     <tbody class="twoColumn">
         <tr class="twoColumn">
-            <th class="twoColumn" style="height:100px;width:150px"><figure class="">
+            <th class="twoColumn" style="height:100px;width:130px"><figure class="">
                 <img src="https://sinalewis.github.io/DnD_session/assets/images/adventure_zone.jpg" alt="Cover Art" height="100px">
                 </figure></th>
             <th class="twoColumn">Justin, Travis, and Griffin McElroy from <em>My Brother, My Brother and Me</em> have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of… you know, kobolds or whatever in… The Adventure Zone.</th>
@@ -108,7 +108,7 @@ toc-title: Series
 <table class="twoColumn">
     <tbody class="twoColumn">
         <tr class="twoColumn">
-            <th class="twoColumn" style="height:100px;width:150px"><figure class="">
+            <th class="twoColumn" style="height:100px;width:130px"><figure class="">
                 <img src="https://sinalewis.github.io/DnD_session/assets/images/critical_role.jpg" alt="Cover Art" height="100px">
                 </figure></th>
             <th class="twoColumn">One of the most well-known D&D podcasts (yet never listened to by Otto or Sina).</th>
