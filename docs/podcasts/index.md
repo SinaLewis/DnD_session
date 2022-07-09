@@ -10,10 +10,10 @@ toc-title: Series
 <table class="twoColumn">
     <tbody class="twoColumn">
         <tr class="twoColumn">
-            <th class="twoColumn"><figure class="">
+            <th class="twoColumn" style="height:100px;width:100px"><figure class="">
                 <img src="https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png" alt="Cover Art" height="100px">
                 </figure></th>
-            <th>Full of dad jokes and some inappropriate humor. They earn their explicit rating!</th>
+            <th class="twoColumn">Full of dad jokes and some inappropriate humor. They earn their explicit rating!</th>
         </tr>
     </tbody>
 </table>
@@ -46,10 +46,10 @@ toc-title: Series
 <table class="twoColumn">
     <tbody class="twoColumn">
         <tr class="twoColumn">
-            <th class="twoColumn"><figure class="">
+            <th class="twoColumn" style="height:100px;width:100px"><figure class="">
                 <img src="https://sinalewis.github.io/DnD_session/assets/images/greetings_adventurers.jpeg" alt="Cover Art" height="100px">
                 </figure></th>
-            <th>Previously called Drunks and Dragons, *Greetings, Adventurers!* is one of the longest running D&D podcasts. The first ~100 episodes use the D&D 4th edition system before transitioning to 5e.!</th>
+            <th class="twoColumn">Previously called Drunks and Dragons, *Greetings, Adventurers!* is one of the longest running D&D podcasts. The first ~100 episodes use the D&D 4th edition system before transitioning to 5e.!</th>
         </tr>
     </tbody>
 </table>
