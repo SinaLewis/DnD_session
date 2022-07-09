@@ -10,7 +10,7 @@ toc-title: Series
 Full of dad jokes and some inappropriate humor. They earn their explicit rating!
 
 <details>
-    <summary>Content</summary>
+<summary>Content</summary>
 
 #### Season 1 (complete, 69 episodes)
 
@@ -36,7 +36,7 @@ A Patreon/[store purchase](https://store.dungeonsanddaddies.com/products/at-the-
 Previously called Drunks and Dragons, *Greetings, Adventurers!* is one of the longest running D&D podcasts. The first ~100 episodes use the D&D 4th edition system before transitioning to 5e.
 
 <details>
-    <summary>Content</summary>
+<summary>Content</summary>
 
 <h4 id="greetings-adventurers-campaign-1"> Campaign 1 (complete, 427 episodes)</h4>
 
