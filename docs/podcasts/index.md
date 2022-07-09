@@ -7,7 +7,8 @@ toc-title: Series
 
 ## [Dungeons & Daddies](/dungeons-daddies.md/)
 
-| {% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png" alt="Cover art" height="100px" %} | Full of dad jokes and some inappropriate humor. They earn their explicit rating! |
+| ![](https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png)
+ | Full of dad jokes and some inappropriate humor. They earn their explicit rating! |
 
 <details>
 <summary>Highlights</summary>
