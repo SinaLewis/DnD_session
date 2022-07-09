@@ -7,7 +7,7 @@ toc-title: Series
 
 ## [Dungeons & Daddies](/dungeons-daddies.md/)
 
-| Cover Art | Description|
+<!-- | Cover Art | Description| -->
 | :---: | :---: |
 | ![](https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png) | Full of dad jokes and some inappropriate humor. They earn their explicit rating! |
 
