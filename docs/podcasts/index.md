@@ -1,8 +1,8 @@
 ---
 layout: single
-toc: true
-toc_label: Series
 title: Podcasts
+toc: true
+toc-title: Series
 ---
 
 ## [Dungeons & Daddies](/dungeons-daddies.md/)
