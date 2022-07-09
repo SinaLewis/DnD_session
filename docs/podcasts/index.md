@@ -8,14 +8,14 @@ toc-title: Series
 ## [Dungeons & Daddies](/dungeons-daddies.md/)
 
 <table>
-    <thead>
+    <tbody>
         <tr>
             <th><figure class="">
                 <img src="https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png" alt="Cover Art" height="100px">
                 </figure></th>
             <th>Full of dad jokes and some inappropriate humor. They earn their explicit rating!</th>
         </tr>
-    </thead>
+    </tbody>
 </table>
 
 <details>
