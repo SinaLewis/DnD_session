@@ -7,7 +7,7 @@ toc-title: Series
 
 ## [Dungeons & Daddies](/dungeons-daddies.md/)
 
-<table>
+<table class="twoColumn">
     <tbody>
         <tr>
             <th><figure class="">
