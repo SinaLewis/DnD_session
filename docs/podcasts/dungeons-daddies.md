@@ -8,5 +8,5 @@ title: Dungeons & Daddies
 - [Website](https://www.dungeonsanddaddies.com/)
 - [Spotify](https://open.spotify.com/show/5Sffly5o4mPetmnTR9zsWh?si=728e4d1e36c84a6f)
 
-{% include spotify link="https://open.spotify.com/embed/show/5Sffly5o4mPetmnTR9zsWh?utm_source=generator&theme=0"}
+{% include spotify link="https://open.spotify.com/embed/show/5Sffly5o4mPetmnTR9zsWh?utm_source=generator&theme=0" %}
 
