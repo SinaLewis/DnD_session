@@ -5,7 +5,7 @@ toc: true
 toc-title: Series
 ---
 
-{% figure image_path="https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png" alt="Cover art" height="100px"%}
+{% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png" alt="Cover art" height="100px"%}
 
 ## [Dungeons & Daddies](/dungeons-daddies.md/)
 
@@ -34,7 +34,7 @@ Full of dad jokes and some inappropriate humor. They earn their explicit rating!
 
 ---
 
-{% figure image_path="https://sinalewis.github.io/DnD_session/assets/images/greetings_adventurers.jpg" alt="Cover art" height="100px"%}
+{% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/greetings_adventurers.jpg" alt="Cover art" height="100px"%}
 
 ## [Greetings, Adventurers! (Drunks and Dragons)](https://geeklyinc.com/category/drunks-and-dragons/)
 
@@ -63,7 +63,7 @@ Previously called Drunks and Dragons, *Greetings, Adventurers!* is one of the lo
 
 ---
 
-{% figure image_path="https://sinalewis.github.io/DnD_session/assets/images/adventure_zone.jpg" alt="Cover art" height="100px"%}
+{% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/adventure_zone.jpg" alt="Cover art" height="100px"%}
 
 ## [Adventure Zone]()
 
@@ -82,7 +82,7 @@ Justin, Travis, and Griffin McElroy from *My Brother, My Brother and Me* have re
 
 ---
 
-{% figure image_path="https://sinalewis.github.io/DnD_session/assets/images/critical_role.jpg" alt="Cover art" height="100px"%}
+{% include figure image_path="https://sinalewis.github.io/DnD_session/assets/images/critical_role.jpg" alt="Cover art" height="100px"%}
 
 ## [Critical Role]()
 
