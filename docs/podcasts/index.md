@@ -39,8 +39,6 @@ toc-title: Series
 
 </details>
 
----
-
 ## [Greetings, Adventurers! (Drunks and Dragons)](https://geeklyinc.com/category/drunks-and-dragons/)
 
 <table class="twoColumn">
@@ -75,8 +73,6 @@ toc-title: Series
 
 </details>
 
----
-
 ## [Adventure Zone]()
 
 <table class="twoColumn">
@@ -100,8 +96,6 @@ toc-title: Series
 <h4 id="ethersea"> Ethersea </h4>
 
 </details>
-
----
 
 ## [Critical Role]()
 
