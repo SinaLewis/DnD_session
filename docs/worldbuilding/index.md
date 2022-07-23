@@ -14,6 +14,7 @@ title: People & Places
 - [Eraphina](people/eraphina.md)
 - [Igr'fru (Iggy) Ekru](people/iggy.md)
 - [Pethani 'Threadtwister'](people/pethani.md)
+- [Kylia Zybarien](people/kylia.md)
 
 ### DMPCs
 
