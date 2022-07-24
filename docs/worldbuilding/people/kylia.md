@@ -8,4 +8,6 @@ permalink: /people/kylia.md/
 
 ## Kylia Zybarien
 
-A snow princess ranger with a polar bear beast companion. Kylia joined the rest of the party after her first adventuring party was wiped out while exploring the mines of the Smoky Iron Mountains. 
+A snow princess ranger with a polar bear beast companion. Kylia joined the rest of the party after she was separated from her first adventuring party while exploring the mines of the Smoky Iron Mountains.[^1] 
+
+[^1] See journal entry [2022-07-23](https://sinalewis.github.io/DnD_session/journal/2022-07-23.md)
