@@ -8,4 +8,4 @@ permalink: /people/lady-of-LastCrest.md/
 
 ## Lady of the Last Crest
 
-We saved the Lady of the Last Crest from being killed by the cultists. In return she sent us as envoys to the Smoky Iron Mountains.
+We saved the Lady of the Last Crest (Julia Gilstein) from being killed by the cultists. In return she sent us as envoys to the Smoky Iron Mountains, because they stopped sending metal shipments to the town. She also wanted us to check in on Mr. Dillygaffer.
