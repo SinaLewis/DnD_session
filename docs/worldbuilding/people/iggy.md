@@ -7,3 +7,4 @@ permalink: /people/iggy.md/
 
 ## Igr'fru (Iggy) Ekru
 
+A homeless stinky half-elf who has followed us around for some reason. Is obssessed with soup and will do almost anything for free soup (preferred over gold).

@@ -19,3 +19,11 @@ And so Rieta grew up in the Feywild, adopting the name of her Fey protector alon
 
 After dying and being revived by a dragon heart, Rieta gained scales and the ability to breath a radiant light from her mouth.
 
+---
+
+|   | Bank Amount |
+| :---: | ---: |
+| pp | 100 |
+| gp | 7000 |
+| sp | 0 |
+| cp | 0 |

@@ -7,3 +7,5 @@ permalink: /people/aurora.md/
 
 
 ## Aurora
+
+Joined the party while searching for her love who was lost after he left on a mission.
