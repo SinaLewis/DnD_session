@@ -5,6 +5,7 @@ toc_label: Entries
 title: Journal
 ---
 
+ - [September 17, 2022](/2022-09-03.md/)
  - [September 03, 2022](/2022-09-03.md/)
  - [August 27, 2022](/2022-08-27.md/)
  - [August 20, 2022](/2022-08-20.md/)
