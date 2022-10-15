@@ -19,11 +19,13 @@ title: People & Places
 ### DMPCs
 
 - [Gregg](people/gregg.md)
+- [Rocksanne](people/rocksanne.md)
 
 ### NPCs
 
 - [Lady of Last Crest](people/lady-of-LastCrest.md)
 - [Mr. Dillygaffer](people/dillygaffer.md)
+- [Gorick](people/gorick.md)
 
 ---
 
