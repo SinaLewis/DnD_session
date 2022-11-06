@@ -30,6 +30,9 @@ Through meticulous preparation and careful work, you have created hand grenades.
 
 ## Stuff
 
+- [Radamite Blade](/radamite-blade.md)
+- [Blade of Shadows](/shadow-blade.md)
+
 ### Inn Menu
 
 | Item | Cost |
