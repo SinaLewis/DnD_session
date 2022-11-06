@@ -5,6 +5,10 @@ title: Dungeons & Daddies
 
 {% include figure2 image_path="https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season1.png" alt="Cover art for Season 1" width="100%" image_path2="https://sinalewis.github.io/DnD_session/assets/images/dungeons_daddies_season2.jpg" alt2="Covert art for Season 2" width2="100%" %}
 
+## Review by Sina
+
+Beautiful, well-developed D&D podcast. Season 1 establishes a specific goal and, with many hijinks along the way, achieves it. Season 2 continues the hijinks and hilarity, perhaps with a less well-defined goal. This show was the first D&D podcast I listened to and really sparked my thirst for these podcasts as well as D&D. 
+
 ## Links
 
 - [Website](https://www.dungeonsanddaddies.com/)
