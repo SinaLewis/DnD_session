@@ -5,6 +5,7 @@ toc_label: Entries
 title: Journal
 ---
 
+ - [November 12, 2022](/2022-11-12.md/)
  - [November 05, 2022](/2022-11-05.md/)
  - [October 15, 2022](/2022-10-15.md/)
  - [October 01, 2022](/2022-10-01.md/)
