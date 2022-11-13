@@ -23,6 +23,7 @@ title: People & Places
 
 ### NPCs
 
+- [The Herbalist](people/theHerbalist.md)
 - [Lady of Last Crest](people/lady-of-LastCrest.md)
 - [Mr. Dillygaffer](people/dillygaffer.md)
 - [Gorick](people/gorick.md)
