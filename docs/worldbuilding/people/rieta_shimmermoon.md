@@ -24,6 +24,6 @@ After dying and being revived by a dragon heart, Rieta gained scales and the abi
 |   | Bank Amount |
 | :---: | ---: |
 | pp | 100 |
-| gp | 7000 |
-| sp | 0 |
+| gp | 3606 |
+| sp | 5 |
 | cp | 0 |
