@@ -27,6 +27,7 @@ title: People & Places
 - [Lady of Last Crest](people/lady-of-LastCrest.md)
 - [Mr. Dillygaffer](people/dillygaffer.md)
 - [Gorick](people/gorick.md)
+- [Eilistraee](people/Eilistraee.md)
 
 ---
 
