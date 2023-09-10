@@ -5,6 +5,7 @@ toc_label: Entries
 title: Journal
 ---
 
+ - [September 09, 2023](/2023-09-09.md/)
  - [August 26, 2023](/2023-08-26.md/)
  - [August 05, 2023](/2023-08-05.md/)
  - [June 17, 2023](/2023-06-17.md/)
