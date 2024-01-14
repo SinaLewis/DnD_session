@@ -8,4 +8,6 @@ permalink: /people/aurora.md/
 
 ## Aurora
 
-Joined the party while searching for her love who was lost after he left on a mission.
+A half-fey (fey-blood) wood elf druid (co-opted into the party healer). Joined the party while searching for her love who was lost after he left on a mission.
+
+Died during a fight with a young blue dragon and was revived by a cult using fairy tears and a dragon heart.

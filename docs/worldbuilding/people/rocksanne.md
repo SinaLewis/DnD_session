@@ -8,6 +8,6 @@ permalink: /people/rocksanne.md/
 
 ## Rocksanne
 
-A Roc found as an egg and raised by the Quarks. 
+A Roc found as an egg and raised by the Quarks. Rocksanne is being raised by the herbalist while the Quarks adventure. They are about the size of a horse at this point, although it seems the herbalist has perhaps overfed them. 
 
 

@@ -5,7 +5,7 @@ permalink: /people/rieta_shimmermoon.md/
 
 {% include figure2 image_path="https://sinalewis.github.io/DnD_session/assets/images/rieta.png" alt="Rieta" width="100%" image_path2="https://sinalewis.github.io/DnD_session/assets/images/rieta_forge.png" alt2="Rieta 2" width2="100%" %}
 
-# Reita Starag Shimmermoon
+# Rieta Starag Shimmermoon
 
 Rieta was born on the 19th day of Ches (Spring Equinox) to human parents. At first she looked as a human babe would. But as she grew certain features started to become apparent. First her black hair developed a peculiar purple sheen. Not unlike a raven's wing. Although not common in humans it wasn't too out of the ordinary. And her parents assumed it to be the result of a distant ancestors genetics making themselves known. They didn't know how right and yet wrong they were
 
