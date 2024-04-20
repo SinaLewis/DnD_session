@@ -5,6 +5,8 @@ toc_label: Entries
 title: Journal
 ---
 
+ - [April 20, 2024](/2024-04-20.md/)
+ - [February 24, 2024](/2024-02-24.md/)
  - [January 27, 2024](/2024-01-27.md/)
  - [January 13, 2024](/2024-01-13.md/)
  - [December 30, 2023](/2023-12-30.md/)
